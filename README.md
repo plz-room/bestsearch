@@ -1,11 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+### 按照一般项目正常操作
+    1.进到项目目录（有`pakcage.json`文件）
+    2.`npm i`，安装依赖
+    3.`npm start`
 ### `npm start`
 
 Runs the app in the development mode.\
